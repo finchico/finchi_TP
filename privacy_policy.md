@@ -1,6 +1,6 @@
 <samp>
   
-### Effective date: April 1, 2023
+### Effective date: June 5, 2023
 
 ----
   </br> 
