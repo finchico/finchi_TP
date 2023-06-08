@@ -5,7 +5,7 @@
   
 ##### Article 1: Regarding the Terms and Use
 
-The following provisions apply to the Terms of Use of the application provided by **finchi co. ph** (referred to as "the Team") and govern any user actions during the use of the application.
+The following provisions apply to the Terms of Use of the application provided by **finchi co. ph** (referred to as "the Team") and govern any user actions during the use of the application.  
 The Terms of Use establish the conditions for using the service, and users are required to adhere to these terms.  
 By downloading the application, the user is deemed to have accepted all the contents stated in the Terms of Use.  
 The Team reserves the right to change the Terms of Use at its discretion for any reason and at any time.  
