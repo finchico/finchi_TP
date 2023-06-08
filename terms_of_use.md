@@ -3,7 +3,9 @@
 ### Effective date: June 5, 2023
 
 ---
-  
+    
+  </br> 
+    
 #### Article 1: Regarding the Terms and Use</em></strong>
 
 <p>
@@ -15,6 +17,8 @@ Unless otherwise specified by the Team, any changes to the Terms of Use will tak
 If the user does not agree with the revised Terms of Use, they must promptly remove the application from their mobile devices.
 Upon the effective date of the revised Terms of Use, the user is expected to agree to the entire content of the revised terms, unless they choose to discontinue the service.  
 </p>
+      
+  </br> 
   
 #### Article 2: Terms and Conditions, etc.
 
@@ -44,8 +48,9 @@ The user is prohibited from engaging in the following actions:
 In the event that the user breaches any provisions of the Terms of Use, the Team reserves the right to terminate the user\'s access to the application at any time, in accordance with the Terms of Use. In such cases, the Team assumes no responsibilities regarding the user.  
 Regarding billing, it is assumed that the user agrees to Google's "Google Play Terms of Service" and complies with them.
 </p>
-  
-  
+    
+  </br> 
+    
 #### Article 3: Exemption from Responsibility
 
 <p>
@@ -62,7 +67,8 @@ The Team is not obligated to fix bugs in the application or develop and improve 
 The Team bears no responsibility if the service experiences data corruption or any other issues caused by external factors.
 </p>
 
-  
+  </br> 
+    
 #### Article 4: Applicable Law and Jurisdiction
 
 <p>
