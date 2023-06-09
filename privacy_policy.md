@@ -22,10 +22,10 @@ We use your data to provide and improve the Service. By using the Service, you a
 ##### Personal Data
   
 <p>
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:
-- Log data
-- Email address
-- Cookies and Usage Data
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:  
+- Log data  
+- Email address  
+- Cookies and Usage Data  
 </p>
 
 <p>
@@ -47,25 +47,26 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 </p>
 
 <p>
-Examples of Cookies we use:
-- Session Cookies. We use Session Cookies to operate our Service.
-- Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
-- Security Cookies. We use Security Cookies for security purposes.
+Examples of Cookies we use:  
+  
+* Session Cookies. We use Session Cookies to operate our Service.  
+* Preference Cookies. We use Preference Cookies to remember your preferences and various settings.  
+* Security Cookies. We use Security Cookies for security purposes.  
 </p>
 
   </br>
 
 #### Use of Data
 <p>
-We uses the collected data for various purposes:
+We uses the collected data for various purposes:  
   
-- To provide and maintain the Service
-- To notify you about changes to our Service
-- To allow you to participate in interactive features of our Service when you choose to do so
-- To provide customer care and support
-- To provide analysis or valuable information so that we can improve the Service
-- To monitor the usage of the Service
-- To detect, prevent and address technical issues
+* To provide and maintain the Service  
+* To notify you about changes to our Service  
+* To allow you to participate in interactive features of our Service when you choose to do so  
+* To provide customer care and support  
+* To provide analysis or valuable information so that we can improve the Service  
+* To monitor the usage of the Service  
+* To detect, prevent and address technical issues  
 </p>
 
   </br>
@@ -81,13 +82,17 @@ We will take all steps reasonably necessary to ensure that your data is treated 
   </br>
 
 #### Disclosure Of Data
+
 <p>Legal Requirements</p>
-<p>We may disclose your Personal Data in the good faith belief that such action is necessary to:
-- To comply with a legal obligation
-- To protect and defend the rights or property of us
-- To prevent or investigate possible wrongdoing in connection with the Service
-- To protect the personal safety of users of the Service or the public
-- To protect against legal liability
+
+<p>
+We may disclose your Personal Data in the good faith belief that such action is necessary to:  
+  
+* To comply with a legal obligation  
+* To protect and defend the rights or property of us  
+* To prevent or investigate possible wrongdoing in connection with the Service  
+* To protect the personal safety of users of the Service or the public  
+* To protect against legal liability  
 </p>
 
   </br>
